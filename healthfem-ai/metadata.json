@@ -1,0 +1,8 @@
+{
+  "name": "AuraHealth AI",
+  "description": "AuraHealth AI - An advanced clinical triage and personalized health companion with AI-powered wellness coaching, Ayurvedic diet planning, health tracking, and hospital routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
